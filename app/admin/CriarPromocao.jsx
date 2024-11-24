@@ -85,7 +85,7 @@ const styles = StyleSheet.create({
     marginBottom: 5,
   },
   input: {
-    backgroundColor: '#4CAF50',
+    backgroundColor: '#fff',
     borderRadius: 10,
     padding: 10,
     fontSize: 16,
@@ -118,8 +118,10 @@ const styles = StyleSheet.create({
     backgroundColor: '#ffeb3b',
     borderRadius: 10,
     paddingVertical: 12,
+    justifyContent: 'center',
     alignItems: 'center',
     marginTop: 20,
+
   },
   submitButtonText: {
     color: '#000',

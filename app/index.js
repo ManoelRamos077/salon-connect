@@ -12,11 +12,11 @@ const Home = () => {
           <Link href="/cadastro" className='font-bold'>cadastro</Link>
           <Link href="/esquecisenha" className='font-bold'>EsqueciSenha</Link>
           <Link href="/EditarUsuario" className='font-bold'>EditarUsuario</Link>
+          <Link href="/cliente/Selecionar-Barbearia" className='font-bold'>Selecionar-Barbearia</Link>
           <Link href="/cliente/criar-reserva" className='font-bold'>Cria reserva</Link>
           <Link href="/home" className='font-bold'>Homepage</Link>
           <Link href="/calendario" className='font-bold'>calendario</Link>
           <Link href="/promocao-page" className='font-bold'>Pagina de Promoção</Link>
-          <Link href="/CriarReserva" className='font-bold'>CriarReserva2.0</Link>
           <Link href="/funcionario/VerAgendamento" className='font-bold'>VerAgendamento</Link>
           <Link href="/admin/PaginaSalao" className='font-bold'>PaginaSalão</Link>
           <Link href="/cliente/CanselamentoHorario" className='font-bold'>Canselamento Horario</Link>
